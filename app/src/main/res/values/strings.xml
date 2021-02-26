@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="ShoppingList">Shopping List</string>
+    <string name="purchased">Purchased</string>
+    <string name="none">Null</string>
+    <string name="edit">EDIT</string>
+    <string name="show">SHOW DETAILS</string>
+    <string name="hide">HIDE DETAILS</string>
+    <string name="secondary_list">description</string>
+
+</resources>
